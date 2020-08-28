@@ -10,8 +10,9 @@
 4. requests 2.22.0+
 
 ## 注意事项
-需要使用百度云的网络图片识别API
+需要使用百度云的网络图片文字识别API
 请自行申请 client_id 与 client_secret
+[百度云API文档](https://cloud.baidu.com/doc/OCR/s/Sk3h7xyad)
 
 ## 效果预览
 ![教务处](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic1.png)
