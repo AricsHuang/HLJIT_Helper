@@ -10,5 +10,5 @@
 4. requests 2.22.0+
 
 ##效果预览
-[教务处](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic1.png)
-[google日历](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic2.png)
+![教务处](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic1.png)
+![google日历](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic2.png)
