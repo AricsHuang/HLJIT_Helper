@@ -9,6 +9,10 @@
 3. PIL 7.0.0+
 4. requests 2.22.0+
 
+## 注意事项
+需要使用百度云的网络图片识别API
+请自行申请 client_id 与 client_secret
+
 ## 效果预览
 ![教务处](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic1.png)
 ![google日历](https://github.com/AricsHuang/HLJIT_Helper/blob/master/pic2.png)
